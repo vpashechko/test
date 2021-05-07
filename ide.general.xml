@@ -18,4 +18,14 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="RiderMemory" value="true" />
+        <entry key="SolutionAnalysisText" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
