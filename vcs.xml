@@ -414,9 +414,13 @@
           <option name="url" value="http://gitlab-ext1.simbirsoft1.com" />
           <option name="userName" value="vladislav.pashechko" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AbakumovaOlga/SS_Abakumova" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\INKA" />
+    <option name="cloneParentDir" value="C:\Work\Pract\ДЗ" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />
