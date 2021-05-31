@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Presentation\Konsom.Inka.Management.Api\Startup.cs'" />
-    <option name="defaultScopeName" value="File '...\Presentation\Konsom.Inka.Management.Api\Startup.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Presentation\Konsom.Inka.Management.Api\Startup.cs'" />
+    <option name="customScope" value="File '...\Core\Konsom.Inka.Management.Application\DependencyInjection.cs'" />
+    <option name="defaultScopeName" value="File '...\Core\Konsom.Inka.Management.Application\DependencyInjection.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Core\Konsom.Inka.Management.Application\DependencyInjection.cs'" />
   </component>
 </application>
