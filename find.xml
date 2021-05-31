@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '...\Presentation\Konsom.Inka.Management.Api\Startup.cs'" />
+    <option name="defaultScopeName" value="File '...\Presentation\Konsom.Inka.Management.Api\Startup.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Presentation\Konsom.Inka.Management.Api\Startup.cs'" />
   </component>
 </application>
