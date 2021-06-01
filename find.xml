@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Core\Konsom.Inka.Management.Domain\Entities\Modules\Module.cs'" />
-    <option name="defaultScopeName" value="File '...\Core\Konsom.Inka.Management.Domain\Entities\Modules\Module.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Core\Konsom.Inka.Management.Domain\Entities\Modules\Module.cs'" />
+    <option name="customScope" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\Configurations\ModelConfiguration.cs'" />
+    <option name="defaultScopeName" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\Configurations\ModelConfiguration.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\Configurations\ModelConfiguration.cs'" />
   </component>
 </application>
