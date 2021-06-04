@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\Repositories\FormFileRepository.cs'" />
-    <option name="defaultScopeName" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\Repositories\FormFileRepository.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\Repositories\FormFileRepository.cs'" />
+    <option name="customScope" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\DependencyInjection.cs'" />
+    <option name="defaultScopeName" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\DependencyInjection.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Infrastructure\Konsom.Inka.Management.Persistence\DependencyInjection.cs'" />
   </component>
 </application>
