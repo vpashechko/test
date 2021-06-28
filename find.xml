@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Presentation\Konsom.Inka.Management.Api\Controllers\EntityController.cs'" />
-    <option name="defaultScopeName" value="File '...\Presentation\Konsom.Inka.Management.Api\Controllers\EntityController.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Presentation\Konsom.Inka.Management.Api\Controllers\EntityController.cs'" />
+    <option name="customScope" value="File '...\Core\Konsom.Inka.Management.Domain\Dto\UpdateCalculatedFieldDto.cs'" />
+    <option name="defaultScopeName" value="File '...\Core\Konsom.Inka.Management.Domain\Dto\UpdateCalculatedFieldDto.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Core\Konsom.Inka.Management.Domain\Dto\UpdateCalculatedFieldDto.cs'" />
   </component>
 </application>
