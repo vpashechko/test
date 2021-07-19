@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Core\Konsom.Inka.Management.Domain\Interfaces\Validations\ICalculatedFieldValidator.cs'" />
-    <option name="defaultScopeName" value="File '...\Core\Konsom.Inka.Management.Domain\Interfaces\Validations\ICalculatedFieldValidator.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Core\Konsom.Inka.Management.Domain\Interfaces\Validations\ICalculatedFieldValidator.cs'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
   </component>
 </application>
